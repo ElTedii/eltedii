@@ -3,10 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eltedii/eltedii/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/eltedii/eltedii/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eltedii&show_icons=true&theme=radial" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltedii&layout=compact&theme=radial" height="150" alt="languages graph" />
 </div>
-
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/ElTedii/Gestor-de-Hoteles---WPF/refs/heads/main/Resources/logo-minimal.png"  />
