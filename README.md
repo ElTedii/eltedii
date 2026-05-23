@@ -3,9 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltedii&show_icons=true&theme=radial" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltedii&layout=compact&theme=radial" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElTedii&show_icons=true&theme=radial" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElTedii&layout=compact&theme=radial" height="150" alt="languages graph" />
+</div> 
+
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/ElTedii/Gestor-de-Hoteles---WPF/refs/heads/main/Resources/logo-minimal.png"  />
@@ -45,6 +46,8 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/eltedii/eltedii/snake-output/github-snake.svg](https://raw.githubusercontent.com/eltedii/eltedii/snake-output/github-snake.svg)" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ElTedii/ElTedii/snake-output/github-snake.svg" alt="Snake animation" />
+</div>
 
 ###
