@@ -2,11 +2,6 @@
 
 ###
 
-###<div align="center">
-###  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eltedii&show_icons=true&theme=radial" height="150" alt="stats graph" />
-###  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eltedii&layout=compact&theme=radial" height="150" alt="languages graph" />
-###</div>
-
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/ElTedii/Gestor-de-Hoteles---WPF/refs/heads/main/Resources/logo-minimal.png"  />
